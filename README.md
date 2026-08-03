@@ -1,18 +1,20 @@
-# Hongda Zhao
+# Hi, I'm Hongda 👋
 
-**Bioinformatics PhD Candidate at Kyoto University · JSPS Research Fellow (DC1)**
+I'm a bioinformatics PhD candidate at Kyoto University and a JSPS Research Fellow (DC1).
 
-I develop computational approaches for large-scale genome and protein analysis, with a focus on **comparative genomics, virology, protein bioinformatics, and AI for Science**.
+I study viruses hidden in eukaryotic genomes and build computational workflows for large-scale genome and protein analysis. Recently, I've also been exploring protein language models and AI for Science.
 
-My current work explores how protein language models and reproducible machine-learning workflows can support biological discovery.
+Outside research, I enjoy observing and documenting biodiversity on [iNaturalist](https://www.inaturalist.org/people/hongdaz).
 
 ## Featured Project
 
 ### [DJR-MCP Finder](https://github.com/Hongda-Zhao/DJR-MCP-Finder)
 
-A protein-language-model-based framework for screening double-jelly-roll major capsid protein candidates from protein sequences.
+A reproducible tool that uses protein language model embeddings to screen for double-jelly-roll major capsid protein candidates.
 
-## Research Interests
+## Find Me Elsewhere
 
-Computational genomics · Virus evolution · Protein sequence and structure analysis · Biological foundation models
-
+[Google Scholar](https://scholar.google.com/citations?user=cc-6KA8AAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0001-8795-2845) ·
+[iNaturalist](https://www.inaturalist.org/people/hongdaz) ·
+[LinkedIn](https://www.linkedin.com/in/hongda-zhao-0357b5405/)
