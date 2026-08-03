@@ -16,4 +16,3 @@ A protein-language-model-based framework for screening double-jelly-roll major c
 
 Computational genomics · Virus evolution · Protein sequence and structure analysis · Biological foundation models
 
-[LinkedIn](https://www.linkedin.com/in/hongda-zhao-0357b5405/) · [Email](mailto:你的邮箱)
