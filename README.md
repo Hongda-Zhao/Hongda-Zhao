@@ -1,10 +1,8 @@
 # Hi, I'm Hongda 👋
 
-I'm a bioinformatics PhD candidate at Kyoto University and a JSPS Research Fellow (DC1).
+I'm a bioinformatics PhD candidate at Kyoto University.
 
-I study viruses hidden in eukaryotic genomes and build computational workflows for large-scale genome and protein analysis. Recently, I've also been exploring protein language models and AI for Science.
-
-Outside research, I enjoy observing and documenting biodiversity on [iNaturalist](https://www.inaturalist.org/people/hongdaz).
+I study viruses hidden in eukaryotic genomes and build computational workflows for large-scale genome and protein analysis. I've also been exploring protein language models and AI for Science.
 
 ## Featured Project
 
