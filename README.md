@@ -1,6 +1,6 @@
 # Hongda Zhao
 
-Bioinformatics PhD candidate at Kyoto University.
+Computational Biology PhD candidate at Kyoto University.
 
 I study viruses hidden in eukaryotic genomes using computational genomics. I also explore protein language models and AI for Science.
 
