@@ -6,4 +6,4 @@ I study viruses hidden in eukaryotic genomes using computational genomics. I als
 
 ## [Visit my personal website →](https://hongda-zhao.github.io/)
 
-Notes on life, technology, research, and academic activities are collected there.
+Notes on life, research, and academic activities are collected there.
